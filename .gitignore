@@ -1,3 +1,11 @@
+# IDE files
+.project
+.settings
+
+# Artifact folders
+/target
+/bin
+
 # Package Files #
 *.jar
 
