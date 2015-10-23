@@ -1,2 +1,2 @@
 # array-of-integers-flattener-groovy
-Test the Groovy out-of-the-box flatten method
+Simply a demonstration of how the Groovy `flatten()` method works out of the box and how it would have solved the requirements given and more.
